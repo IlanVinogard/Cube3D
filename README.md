@@ -38,7 +38,7 @@ The simulation will start running in your terminal. You can adjust the cube's ro
 
 ## Screenshot
 
-![3D Rotating Cube Simulation](https://example.com/path/to/your/image.png)
+![3D Rotating Cube Simulation](https://github.com/IlanVinogard/Cube3D/blob/master/cube.png)
 
 ## Contributing
 
